@@ -13,6 +13,7 @@ The data architecture for this project follows Medallion Architecture **Bronze**
 2. **Silver Layer**: This layer includes data cleansing, standardization, and normalization processes to prepare data for analysis.
 3. **Gold Layer**: Houses business-ready data modeled into a star schema required for reporting and analytics.
 
+![image alt](https://github.com/Amarnath27me/data-warehouse-project-sql/blob/47a07a64222655cc58a3c20126fad13c23bc1f3d/High%20Level%20Architecture.png)
 ---
 ## 📖 Project Overview
 
